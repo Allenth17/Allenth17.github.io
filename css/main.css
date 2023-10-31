@@ -70,7 +70,7 @@ body {
 .header-home {
     width: 100vw;
     min-height: 100vh;
-    background: linear-gradient(var(--background-50), var(--background-50)), url(../images/homepage/Homepage_main.png), no-repeat center;
+    background: linear-gradient(var(--background-50), var(--background-50)), url(../images/homepage/Homepage_Dusat.jpg), no-repeat center;
     background-size: cover;
 }
 .header-facilities {
@@ -365,7 +365,7 @@ article {
 .article-section-main-room-img-content {
     width: var(--space-11xl);
     height: var(--space-7xl);
-    background: linear-gradient(var(--background-20), var(--background-20)), url(../images/homepage/Homepage_room.png), no-repeat center;
+    background: linear-gradient(var(--background-20), var(--background-20)), url(../images/homepage/Homepage_21.jpg), no-repeat center;
     background-size: cover;
 }
 .article-section-main-beach-img-content {
